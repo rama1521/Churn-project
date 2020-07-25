@@ -1,2 +1,2 @@
-# heart-attack-project
-heart attack prediction
+# Churn project
+churn prediction
